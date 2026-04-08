@@ -17,7 +17,7 @@
  *
  * This maps CRUD operations using ArrayList.
  *
- * @author Sajani G
+ * @author Kavynaya
  * @version 2.0
  */
 import java.util.*;
